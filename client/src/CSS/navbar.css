@@ -1,0 +1,26 @@
+.navbar .navbar-nav .nav-link {
+    color:black;
+    font-size: 1.1em;
+    width: 125px;
+    text-align: center;
+  }
+  .navbar .navbar-nav .nav-link:hover {
+  background-color: grey;
+  color: white;
+  }
+  .navbar .navbar-nav .nav-link.active{ 
+    background-color: grey;
+    color: white;
+  }
+  .navbar .navbar-text .nav-link {
+    color: black;
+    }
+  .navbar .navbar-text .nav-link:hover {
+    color: darkgray;
+    }
+    .navbar-brand{
+      margin-right: 28%;
+    }
+    .navbar{
+      margin-left: 10px;
+    }
