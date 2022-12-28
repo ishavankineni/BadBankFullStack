@@ -66,7 +66,7 @@ const Login = () => {
       alert("User Logged in successfully!");
       navigate("/");
       }else {
-        alert('Incorrect credentials , Please try again!');
+        alert('Invalid credentials , Please try again!');
       }
     } else {
       console.log("No record in db found!");
